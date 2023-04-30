@@ -1,0 +1,51 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CPA Ch3 No6
+</name>
+</assembly>
+<members>
+<member name="T:CPA_Ch3_No6.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:CPA_Ch3_No6.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:CPA_Ch3_No6.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:CPA_Ch3_No6.My.Resources.Resources._8DMhTl6kUucnbiA4mtdT6z2OiD9n2mpTaOw_z6Tz4iI">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CPA_Ch3_No6.My.Resources.Resources.Batman___Justice_League___promo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CPA_Ch3_No6.My.Resources.Resources.Cascabel20Ashore456">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CPA_Ch3_No6.My.Resources.Resources.Knight_patch21">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CPA_Ch3_No6.My.Resources.Resources.stormtrooper_commander_star_wars_silo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
